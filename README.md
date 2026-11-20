@@ -14,14 +14,14 @@ I'm a Unity developer with over four years of experience building my own games a
 | Project | My contribution | Explore |
 | :--- | :--- | :--- |
 | **Pump Down The Flame** | Built a pressure-driven Android action-platformer and brought it to Google Play closed testing with 30+ testers. | [Project](https://www.federicomaglione.com/projects/PumpDownTheFlame.html) |
-| **Don't Fall Now!** | Built Photon matchmaking and gameplay synchronization for a four-player fighter. **1st place at New Game Design.** | [Project](https://www.federicomaglione.com/projects/dontfallnow.html) |
+| **Unity Sprite Palette** | Built a Unity editor tool for organizing sprites and prefabs into palettes, with live placement previews and per-asset presets. | [Source](https://github.com/Xyon-FS/unity-sprite-palette) |
 | **StoryGEN AI** | Launched a public beta for narrative design with a visual editor, version history, and local project storage. | [Web app](https://storygenai.federicomaglione.com/) · [Docs](https://github.com/Xyon-FS/StoryGenAI) |
 | **Mr. Mik** | Extended an open-source workspace with multi-project support, project-aware AI chats, and portable snapshots. | [Source](https://github.com/Xyon-FS/mr-mik-workspace) |
 
 <details>
 <summary>More games and Unity tools</summary>
 
-[Relic Hunter](https://www.federicomaglione.com/projects/relichunter.html) · [Affinity Rush](https://www.federicomaglione.com/projects/affinityrush.html) · [Unity HFSM](https://github.com/Xyon-FS/unity-hfsm) · [Unity Sprite Palette](https://github.com/Xyon-FS/unity-sprite-palette) · [All projects](https://www.federicomaglione.com/projects.html)
+[Don't Fall Now!](https://www.federicomaglione.com/projects/dontfallnow.html) · [Relic Hunter](https://www.federicomaglione.com/projects/relichunter.html) · [Affinity Rush](https://www.federicomaglione.com/projects/affinityrush.html) · [Unity HFSM](https://github.com/Xyon-FS/unity-hfsm) · [All projects](https://www.federicomaglione.com/projects.html)
 
 </details>
 
